@@ -1,1 +1,3 @@
-notatki bmi
+Ten projekt został stworzony przez: Małgorzata Kaszałwicz, Marcin Kosiak, Szymon Kmiecik 
+
+BMI (Body Mass Index), czyli wskaźnik masy ciała, to narzędzie używane do oceny, czy masa ciała osoby jest odpowiednia w stosunku do jej wzrostu. BMI jest szeroko stosowane w medycynie, aby określić, czy osoba ma nadwagę, prawidłową wagę, niedowagę lub otyłość. Jest to prosty sposób na ocenę ryzyka zdrowotnego związanego z wagą ciała.
