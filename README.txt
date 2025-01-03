@@ -12,3 +12,8 @@ Wskaźnik masy ciała, został stworzony przez Adolphe'a Queteleta, belgijskiego
 Cel stworzenia BMI:
 Quetelet pierwotnie opracował BMI w celu pomiaru i analizy populacji ludzi w szerokim ujęciu. Jego celem było stworzenie narzędzia, które mogłoby służyć do oceny rozwoju społeczeństwa i zdrowia ludzkiego na dużą skalę. BMI nie było początkowo przeznaczone do oceny indywidualnego zdrowia, lecz raczej jako narzędzie statystyczne do analizy masy ciała w kontekście populacji.
 >>>>>>> Stashed changes
+Zakresami BMI są: 
+-mniejsze niz 18,5 - niedowaga
+-od 18,5 do 25 - optimum
+-od 25 do 30 - nadwaga
+-ponad 30 - otylosc
