@@ -12,3 +12,24 @@ Wskaźnik masy ciała, został stworzony przez Adolphe'a Queteleta, belgijskiego
 Cel stworzenia BMI:
 Quetelet pierwotnie opracował BMI w celu pomiaru i analizy populacji ludzi w szerokim ujęciu. Jego celem było stworzenie narzędzia, które mogłoby służyć do oceny rozwoju społeczeństwa i zdrowia ludzkiego na dużą skalę. BMI nie było początkowo przeznaczone do oceny indywidualnego zdrowia, lecz raczej jako narzędzie statystyczne do analizy masy ciała w kontekście populacji.
 >>>>>>> Stashed changes
+Ryzyka chorobowe związane z nieprawidłowymi wartościami BMI:
+a) Niedowaga (BMI < 18,5):
+- Osłabianie układu odpornościowego,
+- Większe ryzyko złamań kości i wystąpienia osteoporozy,
+- Anemia,
+- Zanik mięśni i osłabienie,
+- Problemy z płodnością,
+b) Nadwaga (BMI 25–29,9):
+- Nadciśnienie tętnicze,
+- Insulinooporność i cukrzyce typu 2,
+- Większe ryzyko wystąpienia miażdżycy, udaru mózgu czy choroby wieńcowej,
+- Problemy z układem oddechowym,
+c) Otyłość (BMI > 30):
+- Nowotwory,
+- Choroby układu sercowo-naczyniowego,
+- Choroby układu mieśniowo-szkieletowego,
+- Zespół metaboliczny,
+d) Otyłość olbrzymia (BMI > 40): (znacząco zwiększa ryzyko zgonu)
+- Niewydolność narządów,
+- Trudności w oddychaniu i niewydolność układu oddechowego,
+- Powikłania sercowo-naczyniowe
