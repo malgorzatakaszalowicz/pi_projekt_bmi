@@ -24,17 +24,13 @@ def main():
     plik_wyjsciowy = input("Podaj nazwę pliku wyjściowego (.csv): ")
 
     try:
-        # Wczytaj dane
         dane = wczytaj_dane(plik_wejsciowy)
 
-        # Sprawdź, czy kolumny są poprawne
         if 'waga' not in dane.columns or 'wzrost' not in dane.columns:
             raise ValueError("Plik musi zawierać kolumny 'waga' i 'wzrost'.")
 
-        # Oblicz BMI
         dane['BMI'] = dane.apply(lambda row: oblicz_bmi(row['waga'], row['wzrost']), axis=1)
 
-        # Zapisz wyniki
         zapisz_wyniki(dane, plik_wyjsciowy)
 
     except Exception as e:
