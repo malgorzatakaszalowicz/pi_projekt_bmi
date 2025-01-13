@@ -1,5 +1,5 @@
 <<<<<<< Updated upstream
-Ten projekt został stworzony przez: Małgorzata Kaszałwicz, Marcin Kosiak, Szymon Kmiecik 
+Ten projekt został stworzony przez: Małgorzata Kaszałowicz, Marcin Kosiak, Szymon Kmiecik 
 
 BMI (Body Mass Index), czyli wskaźnik masy ciała, to narzędzie używane do oceny,
 czy masa ciała osoby jest odpowiednia w stosunku do jej wzrostu. BMI jest szeroko 
